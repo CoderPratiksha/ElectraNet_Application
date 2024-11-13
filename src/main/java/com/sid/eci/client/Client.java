@@ -1,4 +1,4 @@
-package com.sid.eci.client;
+package tka.com.client;
 import tka.com.controller.*;
 
 import java.io.BufferedReader;
